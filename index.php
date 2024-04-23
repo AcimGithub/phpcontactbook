@@ -13,6 +13,7 @@ $dbname = "contacts_db";
 // Local dev
 //$username = "root";
 //$password = "root";
+//tambah
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
